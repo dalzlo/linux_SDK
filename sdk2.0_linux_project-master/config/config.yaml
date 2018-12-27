@@ -1,0 +1,5 @@
+base_dir: '/home/test/Programe/AstraSDK-v2.0.13-5a10c0cc62-20181122T123809Z-Linux/bin'
+tool_base: '/home/test/Project/sdk2.0_linux_project-master'
+cpu_interval: 2
+test_time: 15
+
